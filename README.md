@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See Solution](https://your-solution-url.com)
+- Solution URL: [See Solution](https://github.com/shubhsaur/3-column-card-component)
 - Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shubhsaur)
-- Twitter - [@yourusername](https://www.twitter.com/shubhsaur)
+- Frontend Mentor - [@shubhsaur](https://www.frontendmentor.io/profile/shubhsaur)
+- Twitter - [@shubhsaur](https://www.twitter.com/shubhsaur)
